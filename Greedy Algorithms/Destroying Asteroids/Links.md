@@ -1,0 +1,3 @@
+## Question
+
+https://leetcode.com/problems/destroying-asteroids/
