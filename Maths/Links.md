@@ -1,7 +1,11 @@
-## Question
+# Maths
+
+## Minimum Moves to Reach Target Score
+
+### Question
 
 https://leetcode.com/problems/minimum-moves-to-reach-target-score/
 
-## Post
+### Post
 
 https://leetcode.com/problems/minimum-moves-to-reach-target-score/discuss/1764794/java-logn-solution

@@ -1,7 +1,11 @@
-## Question
+# Linked Lists
+
+## Maximum Twin Sum of a Linked List
+
+### Question
 
 https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/
 
-## Post / Solution
+### Post / Solution
 
 https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/discuss/1765937/java-stack-solution
