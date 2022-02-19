@@ -1,15 +1,15 @@
 # ARRAYS
 
-## Find All Lonely Numbers in the Array
+## 2150. Find All Lonely Numbers in the Array
 
-### Question
+Problem: https://leetcode.com/problems/find-all-lonely-numbers-in-the-array/
 
-https://leetcode.com/problems/find-all-lonely-numbers-in-the-array/
+Post: https://leetcode.com/problems/find-all-lonely-numbers-in-the-array/discuss/1763273/hashset-not-map-java
 
-### Solutions
+## 2161. Partition Array According to Given Pivot
 
-https://leetcode.com/problems/find-all-lonely-numbers-in-the-array/discuss/1763273/hashset-not-map-java
+Problem: https://leetcode.com/problems/partition-array-according-to-given-pivot/
 
-## Partition Array According to Given Pivot
+## 1929. Concatenation of Array
 
-https://leetcode.com/problems/partition-array-according-to-given-pivot/
+Problem: https://leetcode.com/problems/concatenation-of-array/
