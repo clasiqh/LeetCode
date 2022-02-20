@@ -13,3 +13,9 @@ Problem: https://leetcode.com/problems/partition-array-according-to-given-pivot/
 ## 1929. Concatenation of Array
 
 Problem: https://leetcode.com/problems/concatenation-of-array/
+
+## 2176. Count Equal and Divisible Pairs in an Array
+
+Problem: https://leetcode.com/problems/count-equal-and-divisible-pairs-in-an-array/
+
+Post: https://leetcode.com/problems/count-equal-and-divisible-pairs-in-an-array/discuss/1786022/java-maplist-easy-solution
