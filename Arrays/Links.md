@@ -19,3 +19,8 @@ Problem: https://leetcode.com/problems/concatenation-of-array/
 Problem: https://leetcode.com/problems/count-equal-and-divisible-pairs-in-an-array/
 
 Post: https://leetcode.com/problems/count-equal-and-divisible-pairs-in-an-array/discuss/1786022/java-maplist-easy-solution
+
+## 169. Majority Element
+
+Problem: https://leetcode.com/problems/majority-element/
+
