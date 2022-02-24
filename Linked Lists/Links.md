@@ -19,3 +19,7 @@ Problem: https://leetcode.com/problems/swap-nodes-in-pairs/
 Problem: https://leetcode.com/problems/merge-nodes-in-between-zeros/
 
 Post: https://leetcode.com/problems/merge-nodes-in-between-zeros/discuss/1784911/java-easy-on
+
+## 148. Sort List
+
+Problem: https://leetcode.com/problems/sort-list/
