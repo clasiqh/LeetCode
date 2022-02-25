@@ -11,3 +11,9 @@ Solution: https://leetcode.com/problems/execution-of-all-suffix-instructions-sta
 Problem: https://leetcode.com/problems/maximum-split-of-positive-even-integers/
 
 Post: https://leetcode.com/problems/maximum-split-of-positive-even-integers/discuss/1786553/java-on-explained
+
+## 165. Compare Version Numbers
+
+Problem: https://leetcode.com/problems/compare-version-numbers/
+
+Post: https://leetcode.com/problems/compare-version-numbers/discuss/1797750/string-to-int-list-java
