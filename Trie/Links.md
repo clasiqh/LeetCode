@@ -15,3 +15,7 @@ Problem: ttps://leetcode.com/problems/search-suggestions-system/
 ## 208. Implement Prefix Tree
 
 Problem: https://leetcode.com/problems/implement-trie-prefix-tree/
+
+## 720. Longest Word in Dictionary
+
+Problem: https://leetcode.com/problems/longest-word-in-dictionary/
