@@ -17,3 +17,7 @@ Solution/Post: https://leetcode.com/problems/construct-string-with-repeat-limit/
 ## 2186. Minimum Number of Steps to Make Two Strings Anagram II
 
 Problem: https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram-ii/
+
+## 2185. Counting Words With a Given Prefix
+
+https://leetcode.com/problems/counting-words-with-a-given-prefix/
