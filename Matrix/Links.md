@@ -4,7 +4,7 @@
 
 Problem: https://leetcode.com/problems/number-of-laser-beams-in-a-bank/
 
-Post/Solution: https://leetcode.com/problems/number-of-laser-beams-in-a-bank/discuss/1781908/explained-with-image-comments-java-beats-99
+Post: https://leetcode.com/problems/number-of-laser-beams-in-a-bank/discuss/1781908/explained-with-image-comments-java-beats-99
 
 ## 200. Number of Islands
 
@@ -21,3 +21,11 @@ Problem: https://leetcode.com/problems/island-perimeter/
 ## 1254. Number of Closed Islands
 
 Problem: https://leetcode.com/problems/number-of-closed-islands/
+
+Post: https://leetcode.com/problems/number-of-closed-islands/discuss/1809322/just-another-java-dfs-solution
+
+## 1905. Count Sub Islands
+
+Problem: https://leetcode.com/problems/count-sub-islands/
+
+Post: https://leetcode.com/problems/count-sub-islands/discuss/1809582/java-dfs
