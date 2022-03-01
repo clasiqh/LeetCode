@@ -1,4 +1,4 @@
-# Binary Search
+# Binary
 
 ## 338. Counting Bits
 
