@@ -37,3 +37,7 @@ Problem: https://leetcode.com/problems/pacific-atlantic-water-flow/
 ## 1091. Shortest Path in Binary Matrix
 
 Problem: https://leetcode.com/problems/shortest-path-in-binary-matrix/
+
+## 1162. As Far from Land as Possible
+
+Problem: https://leetcode.com/problems/as-far-from-land-as-possible/
