@@ -34,8 +34,6 @@ Post: https://leetcode.com/problems/count-sub-islands/discuss/1809582/java-dfs
 
 Problem: https://leetcode.com/problems/pacific-atlantic-water-flow/
 
-Post: https://leetcode.com/problems/pacific-atlantic-water-flow/discuss/1810903/easier-dfs-java-accepted-brute-force
-
 ## 1091. Shortest Path in Binary Matrix
 
 Problem: https://leetcode.com/problems/shortest-path-in-binary-matrix/
