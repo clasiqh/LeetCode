@@ -31,7 +31,3 @@ Problem: https://leetcode.com/problems/flood-fill/
 ## 167. Two Sum II - Input Array Is Sorted
 
 https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/
-
-## 1091. Shortest Path in Binary Matrix
-
-Problem: https://leetcode.com/problems/shortest-path-in-binary-matrix/
