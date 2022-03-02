@@ -21,3 +21,7 @@ Problem: https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strin
 ## 2185. Counting Words With a Given Prefix
 
 https://leetcode.com/problems/counting-words-with-a-given-prefix/
+
+## 392. Is Subsequence
+
+https://leetcode.com/problems/is-subsequence/
