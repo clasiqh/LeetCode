@@ -29,3 +29,9 @@ Post: https://leetcode.com/problems/number-of-closed-islands/discuss/1809322/jus
 Problem: https://leetcode.com/problems/count-sub-islands/
 
 Post: https://leetcode.com/problems/count-sub-islands/discuss/1809582/java-dfs
+
+## 417. Pacific Atlantic Water Flow
+
+Problem: https://leetcode.com/problems/pacific-atlantic-water-flow/
+
+Post: https://leetcode.com/problems/pacific-atlantic-water-flow/discuss/1810903/easier-dfs-java-accepted-brute-force
