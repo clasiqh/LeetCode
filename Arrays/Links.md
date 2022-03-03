@@ -37,3 +37,7 @@ Problem: https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/
 Problem: https://leetcode.com/problems/arithmetic-slices/
 
 Post: https://leetcode.com/problems/arithmetic-slices/discuss/1815411/A-Visual-Clue-IMAGE
+
+## 374. Guess Number Higher or Lower
+
+Problem: https://leetcode.com/problems/guess-number-higher-or-lower/
