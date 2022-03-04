@@ -45,3 +45,7 @@ Problem: https://leetcode.com/problems/as-far-from-land-as-possible/
 ## 1091. Shortest Path in Binary Matrix
 
 Problem: https://leetcode.com/problems/shortest-path-in-binary-matrix/
+
+## 542l. 01 Matrix
+
+Problem: https://leetcode.com/problems/01-matrix/
