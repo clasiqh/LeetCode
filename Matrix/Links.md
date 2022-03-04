@@ -59,3 +59,7 @@ Post: https://leetcode.com/problems/shortest-bridge/discuss/1818721/java-bfsdfs
 
 Problem: https://leetcode.com/problems/nearest-exit-from-entrance-in-maze/
 Post: https://leetcode.com/problems/nearest-exit-from-entrance-in-maze/discuss/1818969/java-bfs
+
+## 994. Rotting Oranges
+
+Problem: https://leetcode.com/problems/rotting-oranges/
