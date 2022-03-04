@@ -49,3 +49,7 @@ Problem: https://leetcode.com/problems/shortest-path-in-binary-matrix/
 ## 542l. 01 Matrix
 
 Problem: https://leetcode.com/problems/01-matrix/
+
+## 934. Shortest Bridge
+
+Problem: https://leetcode.com/problems/shortest-bridge/
