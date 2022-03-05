@@ -19,3 +19,7 @@ Post: https://leetcode.com/problems/keys-and-rooms/discuss/1820643/easy-bfs-java
 ## 797. All Paths From Source to Target
 
 Problem: https://leetcode.com/problems/all-paths-from-source-to-target/
+
+## 1319. Number of Operations to Make Network Connected
+
+Problem: https://leetcode.com/problems/number-of-operations-to-make-network-connected/
