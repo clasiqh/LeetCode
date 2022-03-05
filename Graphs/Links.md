@@ -13,3 +13,5 @@ Problem: https://leetcode.com/problems/number-of-provinces/
 ## 841. Keys and Rooms
 
 Problem: https://leetcode.com/problems/keys-and-rooms/
+
+Post: https://leetcode.com/problems/keys-and-rooms/discuss/1820643/easy-bfs-java
