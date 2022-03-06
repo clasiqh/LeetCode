@@ -23,3 +23,9 @@ Post: https://leetcode.com/problems/merge-nodes-in-between-zeros/discuss/1784911
 ## 148. Sort List
 
 Problem: https://leetcode.com/problems/sort-list/
+
+## 19. Remove Nth Node From End of List
+
+Problem: https://leetcode.com/problems/remove-nth-node-from-end-of-list/
+
+Post: https://leetcode.com/problems/remove-nth-node-from-end-of-list/discuss/1822612/java-small-and-easy
