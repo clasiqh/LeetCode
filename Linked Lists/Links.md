@@ -29,3 +29,7 @@ Problem: https://leetcode.com/problems/sort-list/
 Problem: https://leetcode.com/problems/remove-nth-node-from-end-of-list/
 
 Post: https://leetcode.com/problems/remove-nth-node-from-end-of-list/discuss/1822612/java-small-and-easy
+
+## 2194. Cells in a Range on an Excel Sheet
+
+Problem: https://leetcode.com/problems/cells-in-a-range-on-an-excel-sheet/
