@@ -23,3 +23,9 @@ Post: https://leetcode.com/problems/compare-version-numbers/discuss/1797750/stri
 Problem: https://leetcode.com/problems/sort-the-jumbled-numbers/
 
 Post: https://leetcode.com/problems/sort-the-jumbled-numbers/discuss/1822500/priority-queue-comparator-java
+
+## 2196. Create Binary Tree From Descriptions
+
+Problem: https://leetcode.com/problems/create-binary-tree-from-descriptions/
+
+Post: https://leetcode.com/problems/create-binary-tree-from-descriptions/discuss/1823601/java-hashmap
