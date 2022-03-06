@@ -41,3 +41,7 @@ Post: https://leetcode.com/problems/arithmetic-slices/discuss/1815411/A-Visual-C
 ## 374. Guess Number Higher or Lower
 
 Problem: https://leetcode.com/problems/guess-number-higher-or-lower/
+
+## 2190. Most Frequent Number Following Key In an Array
+
+Problem: https://leetcode.com/problems/most-frequent-number-following-key-in-an-array/
