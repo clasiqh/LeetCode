@@ -17,3 +17,9 @@ Post: https://leetcode.com/problems/maximum-split-of-positive-even-integers/disc
 Problem: https://leetcode.com/problems/compare-version-numbers/
 
 Post: https://leetcode.com/problems/compare-version-numbers/discuss/1797750/string-to-int-list-java
+
+## 2191. Sort the Jumbled Numbers
+
+Problem: https://leetcode.com/problems/sort-the-jumbled-numbers/
+
+Post: https://leetcode.com/problems/sort-the-jumbled-numbers/discuss/1822500/priority-queue-comparator-java
