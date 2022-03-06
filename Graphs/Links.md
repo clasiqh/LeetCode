@@ -23,3 +23,7 @@ Problem: https://leetcode.com/problems/all-paths-from-source-to-target/
 ## 1319. Number of Operations to Make Network Connected
 
 Problem: https://leetcode.com/problems/number-of-operations-to-make-network-connected/
+
+## 1376. Time Needed to Inform All Employees
+
+Problem: https://leetcode.com/problems/time-needed-to-inform-all-employees/
