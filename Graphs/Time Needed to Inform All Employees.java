@@ -1,9 +1,7 @@
 class Solution {
     List<List<Integer>> graph = new ArrayList<>();
     int max = 0, sum = 0;
-    boolean[] visited;
     public int numOfMinutes(int n, int headID, int[] manager, int[] informTime) {
-        visited = new boolean[n];
         for(int i=0; i<n; i++)
             graph.add(new ArrayList<>());
         for(int i=0; i<n; i++){
@@ -12,17 +10,16 @@ class Solution {
             graph.get(manager[i]).add(i);
         }
         
-        dfs(headID, informTime);
+        dfs(headID, informTime, manager);
         return max;
     }
     
-    void dfs(int head, int[] time){
-        
-        if(visited[head]) return;
-        visited[head]=true;
+    void dfs(int head, int[] time, int[] manager){
+        if(manager[head]==-2) return;
+        manager[head]=-2;
         sum+= time[head];
         for(int sub : graph.get(head)){
-            dfs(sub, time);
+            dfs(sub, time, manager);
             max = Math.max(max, sum);
         }
         sum-= time[head];
