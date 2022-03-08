@@ -45,3 +45,7 @@ Problem: https://leetcode.com/problems/guess-number-higher-or-lower/
 ## 2190. Most Frequent Number Following Key In an Array
 
 Problem: https://leetcode.com/problems/most-frequent-number-following-key-in-an-array/
+
+## 1306. Jump Game III
+
+Problem: https://leetcode.com/problems/jump-game-iii/
