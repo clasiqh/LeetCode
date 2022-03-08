@@ -31,3 +31,7 @@ Problem: https://leetcode.com/problems/time-needed-to-inform-all-employees/
 ## 802. Find Eventual Safe States
 
 Problem: https://leetcode.com/problems/find-eventual-safe-states/
+
+## 1129. Shortest Path with Alternating Colors
+
+Problem: https://leetcode.com/problems/shortest-path-with-alternating-colors/
