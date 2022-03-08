@@ -35,3 +35,7 @@ Problem: https://leetcode.com/problems/find-eventual-safe-states/
 ## 1129. Shortest Path with Alternating Colors
 
 Problem: https://leetcode.com/problems/shortest-path-with-alternating-colors/
+
+## 1466. Reorder Routes to Make All Paths Lead to the City Zero
+
+Problem: https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero/
