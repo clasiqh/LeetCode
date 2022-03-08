@@ -27,3 +27,7 @@ Problem: https://leetcode.com/problems/number-of-operations-to-make-network-conn
 ## 1376. Time Needed to Inform All Employees
 
 Problem: https://leetcode.com/problems/time-needed-to-inform-all-employees/
+
+## 802. Find Eventual Safe States
+
+Problem: https://leetcode.com/problems/find-eventual-safe-states/
