@@ -43,3 +43,7 @@ Problem: https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-
 ## 21. Merge Two Sorted Lists
 
 Problem: https://leetcode.com/problems/merge-two-sorted-lists/
+
+## 141. Linked List Cycle
+
+Problem: https://leetcode.com/problems/linked-list-cycle/
