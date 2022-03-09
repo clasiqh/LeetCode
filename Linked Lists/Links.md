@@ -33,3 +33,7 @@ Post: https://leetcode.com/problems/remove-nth-node-from-end-of-list/discuss/182
 ## 2194. Cells in a Range on an Excel Sheet
 
 Problem: https://leetcode.com/problems/cells-in-a-range-on-an-excel-sheet/
+
+## 82. Remove Duplicates from Sorted List II
+
+Problem: https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/
