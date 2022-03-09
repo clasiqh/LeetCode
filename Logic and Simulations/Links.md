@@ -29,3 +29,7 @@ Post: https://leetcode.com/problems/sort-the-jumbled-numbers/discuss/1822500/pri
 Problem: https://leetcode.com/problems/create-binary-tree-from-descriptions/
 
 Post: https://leetcode.com/problems/create-binary-tree-from-descriptions/discuss/1823601/java-hashmap
+
+## 365. Water and Jug Problem
+
+Problem: https://leetcode.com/problems/water-and-jug-problem/
