@@ -55,3 +55,7 @@ Problem: https://leetcode.com/problems/shortest-path-visiting-all-nodes/
 ## 433. Minimum Genetic Mutation
 
 Problem: https://leetcode.com/problems/minimum-genetic-mutation/
+
+## 997. Find the Town Judge
+
+Problem: https://leetcode.com/problems/find-the-town-judge/
