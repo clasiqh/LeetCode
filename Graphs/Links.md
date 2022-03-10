@@ -62,8 +62,12 @@ Problem: https://leetcode.com/problems/find-the-town-judge/
 
 ## 1557. Minimum Number of Vertices to Reach All Nodes
 
-https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes/
+Problem: https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes/
 
 ## 752. Open the Lock
 
-https://leetcode.com/problems/open-the-lock/
+Problem: https://leetcode.com/problems/open-the-lock/
+
+## 127. Word Ladder
+
+Problem: https://leetcode.com/problems/word-ladder/
