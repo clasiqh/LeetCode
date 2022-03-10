@@ -51,3 +51,7 @@ Problem: https://leetcode.com/problems/linked-list-cycle/
 ## 847. Shortest Path Visiting All Nodes
 
 Problem: https://leetcode.com/problems/shortest-path-visiting-all-nodes/
+
+## 433. Minimum Genetic Mutation
+
+Problem: https://leetcode.com/problems/minimum-genetic-mutation/
