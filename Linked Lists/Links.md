@@ -37,3 +37,7 @@ Problem: https://leetcode.com/problems/cells-in-a-range-on-an-excel-sheet/
 ## 82. Remove Duplicates from Sorted List II
 
 Problem: https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/
+
+## 2. Add Two Numbers
+
+Problem: https://leetcode.com/problems/add-two-numbers/
