@@ -41,3 +41,7 @@ Problem: https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/
 ## 2. Add Two Numbers
 
 Problem: https://leetcode.com/problems/add-two-numbers/
+
+## 61. Rotate List
+
+Problem: https://leetcode.com/problems/rotate-list/
