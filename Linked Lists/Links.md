@@ -45,3 +45,7 @@ Problem: https://leetcode.com/problems/add-two-numbers/
 ## 61. Rotate List
 
 Problem: https://leetcode.com/problems/rotate-list/
+
+## 138. Copy List with Random Pointer
+
+Problem: https://leetcode.com/problems/copy-list-with-random-pointer/
