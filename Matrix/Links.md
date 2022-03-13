@@ -53,13 +53,19 @@ Problem: https://leetcode.com/problems/01-matrix/
 ## 934. Shortest Bridge
 
 Problem: https://leetcode.com/problems/shortest-bridge/
+
 Post: https://leetcode.com/problems/shortest-bridge/discuss/1818721/java-bfsdfs
 
 ## 1926. Nearest Exit from Entrance in Maze
 
 Problem: https://leetcode.com/problems/nearest-exit-from-entrance-in-maze/
+
 Post: https://leetcode.com/problems/nearest-exit-from-entrance-in-maze/discuss/1818969/java-bfs
 
 ## 994. Rotting Oranges
 
 Problem: https://leetcode.com/problems/rotting-oranges/
+
+## 2201. Count Artifacts That Can Be Extracted
+
+Problem: https://leetcode.com/problems/count-artifacts-that-can-be-extracted/
