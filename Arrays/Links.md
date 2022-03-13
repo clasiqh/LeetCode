@@ -49,3 +49,7 @@ Problem: https://leetcode.com/problems/most-frequent-number-following-key-in-an-
 ## 1306. Jump Game III
 
 Problem: https://leetcode.com/problems/jump-game-iii/
+
+## 2200. Find All K-Distant Indices in an Array
+
+Problem: https://leetcode.com/problems/find-all-k-distant-indices-in-an-array/
