@@ -2,70 +2,76 @@
 
 ## 2125. Number of Laser Beams in a Bank
 
-Problem: https://leetcode.com/problems/number-of-laser-beams-in-a-bank/
+https://leetcode.com/problems/number-of-laser-beams-in-a-bank/
 
-Post: https://leetcode.com/problems/number-of-laser-beams-in-a-bank/discuss/1781908/explained-with-image-comments-java-beats-99
+https://leetcode.com/problems/number-of-laser-beams-in-a-bank/discuss/1781908/explained-with-image-comments-java-beats-99
 
 ## 200. Number of Islands
 
-Problem: https://leetcode.com/problems/number-of-islands/
+https://leetcode.com/problems/number-of-islands/
 
 ## 695. Max Area of Island
 
-Problem: https://leetcode.com/problems/max-area-of-island/
+https://leetcode.com/problems/max-area-of-island/
 
 ## 463. Island Perimeter
 
-Problem: https://leetcode.com/problems/island-perimeter/
+https://leetcode.com/problems/island-perimeter/
 
 ## 1254. Number of Closed Islands
 
-Problem: https://leetcode.com/problems/number-of-closed-islands/
+https://leetcode.com/problems/number-of-closed-islands/
 
-Post: https://leetcode.com/problems/number-of-closed-islands/discuss/1809322/just-another-java-dfs-solution
+https://leetcode.com/problems/number-of-closed-islands/discuss/1809322/just-another-java-dfs-solution
 
 ## 1905. Count Sub Islands
 
-Problem: https://leetcode.com/problems/count-sub-islands/
+https://leetcode.com/problems/count-sub-islands/
 
-Post: https://leetcode.com/problems/count-sub-islands/discuss/1809582/java-dfs
+https://leetcode.com/problems/count-sub-islands/discuss/1809582/java-dfs
 
 ## 417. Pacific Atlantic Water Flow
 
-Problem: https://leetcode.com/problems/pacific-atlantic-water-flow/
+https://leetcode.com/problems/pacific-atlantic-water-flow/
 
 ## 1091. Shortest Path in Binary Matrix
 
-Problem: https://leetcode.com/problems/shortest-path-in-binary-matrix/
+https://leetcode.com/problems/shortest-path-in-binary-matrix/
 
 ## 1162. As Far from Land as Possible
 
-Problem: https://leetcode.com/problems/as-far-from-land-as-possible/
+https://leetcode.com/problems/as-far-from-land-as-possible/
 
 ## 1091. Shortest Path in Binary Matrix
 
-Problem: https://leetcode.com/problems/shortest-path-in-binary-matrix/
+https://leetcode.com/problems/shortest-path-in-binary-matrix/
 
 ## 542l. 01 Matrix
 
-Problem: https://leetcode.com/problems/01-matrix/
+https://leetcode.com/problems/01-matrix/
 
 ## 934. Shortest Bridge
 
-Problem: https://leetcode.com/problems/shortest-bridge/
+https://leetcode.com/problems/shortest-bridge/
 
-Post: https://leetcode.com/problems/shortest-bridge/discuss/1818721/java-bfsdfs
+https://leetcode.com/problems/shortest-bridge/discuss/1818721/java-bfsdfs
 
 ## 1926. Nearest Exit from Entrance in Maze
 
-Problem: https://leetcode.com/problems/nearest-exit-from-entrance-in-maze/
+https://leetcode.com/problems/nearest-exit-from-entrance-in-maze/
 
-Post: https://leetcode.com/problems/nearest-exit-from-entrance-in-maze/discuss/1818969/java-bfs
+https://leetcode.com/problems/nearest-exit-from-entrance-in-maze/discuss/1818969/java-bfs
 
 ## 994. Rotting Oranges
 
-Problem: https://leetcode.com/problems/rotting-oranges/
+https://leetcode.com/problems/rotting-oranges/
 
 ## 2201. Count Artifacts That Can Be Extracted
 
-Problem: https://leetcode.com/problems/count-artifacts-that-can-be-extracted/
+https://leetcode.com/problems/count-artifacts-that-can-be-extracted/
+
+## 931. Minimum Falling Path Sum
+
+https://leetcode.com/problems/minimum-falling-path-sum/
+
+https://leetcode.com/problems/minimum-falling-path-sum/discuss/1855422/java-recursive-dp
