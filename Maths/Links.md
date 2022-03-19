@@ -27,3 +27,7 @@ https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/
 ## 1491. Average Salary Excluding the Minimum and Maximum Salary
 
 https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/
+
+## 976. Largest Perimeter Triangle
+
+https://leetcode.com/problems/largest-perimeter-triangle/
