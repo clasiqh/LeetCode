@@ -31,3 +31,7 @@ https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-s
 ## 976. Largest Perimeter Triangle
 
 https://leetcode.com/problems/largest-perimeter-triangle/
+
+## 1779. Find Nearest Point That Has the Same X or Y Coordinate
+
+https://leetcode.com/problems/find-nearest-point-that-has-the-same-x-or-y-coordinate/
