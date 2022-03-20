@@ -29,3 +29,7 @@ https://leetcode.com/problems/is-subsequence/
 ## 71. Simplify Path
 
 https://leetcode.com/problems/simplify-path/
+
+## 2207. Maximize Number of Subsequences in a String
+
+https://leetcode.com/problems/maximize-number-of-subsequences-in-a-string/
