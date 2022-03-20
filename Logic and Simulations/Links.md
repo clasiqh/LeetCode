@@ -41,3 +41,7 @@ https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integ
 ## 2210. Count Hills and Valleys in an Array
 
 https://leetcode.com/problems/count-hills-and-valleys-in-an-array/
+
+## 2211. Count Collisions on a Road
+
+https://leetcode.com/problems/count-collisions-on-a-road/
