@@ -37,3 +37,7 @@ https://leetcode.com/problems/water-and-jug-problem/
 ## 1281. Subtract the Product and Sum of Digits of an Integer
 
 https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/
+
+## 2210. Count Hills and Valleys in an Array
+
+https://leetcode.com/problems/count-hills-and-valleys-in-an-array/
