@@ -39,3 +39,7 @@ https://leetcode.com/problems/find-nearest-point-that-has-the-same-x-or-y-coordi
 ## 2208. Minimum Operations to Halve Array Sum
 
 https://leetcode.com/problems/minimum-operations-to-halve-array-sum/
+
+## 1502. Can Make Arithmetic Progression From Sequence
+
+https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence/
