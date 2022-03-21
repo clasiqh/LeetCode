@@ -12,7 +12,7 @@ https://leetcode.com/problems/check-if-all-characters-have-equal-number-of-occur
 
 https://leetcode.com/problems/construct-string-with-repeat-limit/
 
-Solution/Post: https://leetcode.com/problems/construct-string-with-repeat-limit/discuss/1785016/java-loops
+https://leetcode.com/problems/construct-string-with-repeat-limit/discuss/1785016/java-loops
 
 ## 2186. Minimum Number of Steps to Make Two Strings Anagram II
 
