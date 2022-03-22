@@ -33,3 +33,7 @@ https://leetcode.com/problems/simplify-path/
 ## 2207. Maximize Number of Subsequences in a String
 
 https://leetcode.com/problems/maximize-number-of-subsequences-in-a-string/
+
+## 1663. Smallest String With A Given Numeric Value
+
+https://leetcode.com/problems/smallest-string-with-a-given-numeric-value/
