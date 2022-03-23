@@ -43,3 +43,7 @@ https://leetcode.com/problems/minimum-operations-to-halve-array-sum/
 ## 1502. Can Make Arithmetic Progression From Sequence
 
 https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence/
+
+## 991. Broken Calculator
+
+https://leetcode.com/problems/broken-calculator/
