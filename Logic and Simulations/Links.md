@@ -45,3 +45,7 @@ https://leetcode.com/problems/count-hills-and-valleys-in-an-array/
 ## 2211. Count Collisions on a Road
 
 https://leetcode.com/problems/count-collisions-on-a-road/
+
+## 5236. Minimum Deletions to Make Array Beautiful
+
+https://leetcode.com/problems/minimum-deletions-to-make-array-beautiful/
