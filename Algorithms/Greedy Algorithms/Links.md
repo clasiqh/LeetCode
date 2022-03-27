@@ -7,3 +7,7 @@ https://leetcode.com/problems/destroying-asteroids/
 ## 881. Boats to Save People
 
 https://leetcode.com/problems/boats-to-save-people/
+
+## 2202. Maximize the Topmost Element After K Moves
+
+https://leetcode.com/problems/maximize-the-topmost-element-after-k-moves/
