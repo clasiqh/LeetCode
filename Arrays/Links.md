@@ -57,3 +57,7 @@ https://leetcode.com/problems/find-all-k-distant-indices-in-an-array/
 ## 2206. Divide Array Into Equal Pairs
 
 https://leetcode.com/problems/divide-array-into-equal-pairs/
+
+## 287. Find the Duplicate Number
+
+https://leetcode.com/problems/find-the-duplicate-number/
