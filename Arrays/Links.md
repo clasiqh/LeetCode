@@ -61,3 +61,7 @@ https://leetcode.com/problems/divide-array-into-equal-pairs/
 ## 287. Find the Duplicate Number
 
 https://leetcode.com/problems/find-the-duplicate-number/
+
+## 41. First Missing Positive
+
+https://leetcode.com/problems/first-missing-positive/
