@@ -37,3 +37,7 @@ https://leetcode.com/problems/maximize-number-of-subsequences-in-a-string/
 ## 1663. Smallest String With A Given Numeric Value
 
 https://leetcode.com/problems/smallest-string-with-a-given-numeric-value/
+
+## 49. Group Anagrams
+
+https://leetcode.com/problems/group-anagrams/
