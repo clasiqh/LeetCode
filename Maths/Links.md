@@ -47,3 +47,7 @@ https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence/
 ## 991. Broken Calculator
 
 https://leetcode.com/problems/broken-calculator/
+
+## 2224. Minimum Number of Operations to Convert Time
+
+https://leetcode.com/problems/minimum-number-of-operations-to-convert-time/
