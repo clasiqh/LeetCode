@@ -65,3 +65,7 @@ https://leetcode.com/problems/find-the-duplicate-number/
 ## 41. First Missing Positive
 
 https://leetcode.com/problems/first-missing-positive/
+
+## 2221. Find Triangular Sum of an Array
+
+https://leetcode.com/problems/find-triangular-sum-of-an-array/
