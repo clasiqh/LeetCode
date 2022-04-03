@@ -11,3 +11,7 @@ https://leetcode.com/problems/first-bad-version/
 ## 704. Binary Search
 
 https://leetcode.com/problems/binary-search/
+
+## 2226. Maximum Candies Allocated to K Children
+
+https://leetcode.com/problems/maximum-candies-allocated-to-k-children/
