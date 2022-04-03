@@ -49,3 +49,7 @@ https://leetcode.com/problems/reverse-string/
 ## 680. Valid Palindrome II
 
 https://leetcode.com/problems/valid-palindrome-ii/
+
+## 2227. Encrypt and Decrypt Strings
+
+https://leetcode.com/problems/encrypt-and-decrypt-strings/
