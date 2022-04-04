@@ -49,3 +49,7 @@ Problem: https://leetcode.com/problems/rotate-list/
 ## 138. Copy List with Random Pointer
 
 Problem: https://leetcode.com/problems/copy-list-with-random-pointer/
+
+## 1721. Swapping Nodes in a Linked List
+
+https://leetcode.com/problems/swapping-nodes-in-a-linked-list/
