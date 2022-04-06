@@ -69,3 +69,7 @@ https://leetcode.com/problems/first-missing-positive/
 ## 2221. Find Triangular Sum of an Array
 
 https://leetcode.com/problems/find-triangular-sum-of-an-array/
+
+## 15. 3Sum
+
+https://leetcode.com/problems/3sum/
