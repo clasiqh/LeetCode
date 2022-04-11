@@ -49,3 +49,7 @@ https://leetcode.com/problems/count-collisions-on-a-road/
 ## 5236. Minimum Deletions to Make Array Beautiful
 
 https://leetcode.com/problems/minimum-deletions-to-make-array-beautiful/
+
+## 2233. Maximum Product After K Increments
+
+https://leetcode.com/problems/maximum-product-after-k-increments/
