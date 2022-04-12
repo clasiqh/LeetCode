@@ -53,3 +53,7 @@ https://leetcode.com/problems/minimum-deletions-to-make-array-beautiful/
 ## 2233. Maximum Product After K Increments
 
 https://leetcode.com/problems/maximum-product-after-k-increments/
+
+## 289. Game of Life
+
+https://leetcode.com/problems/game-of-life/
