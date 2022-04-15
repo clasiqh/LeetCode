@@ -27,3 +27,7 @@ https://leetcode.com/problems/binary-tree-right-side-view/
 ## 589. N-ary Tree Preorder Traversal
 
 https://leetcode.com/problems/n-ary-tree-preorder-traversal/
+
+## 700. Search in a Binary Search Tree
+
+https://leetcode.com/problems/search-in-a-binary-search-tree/
