@@ -31,3 +31,7 @@ https://leetcode.com/problems/n-ary-tree-preorder-traversal/
 ## 700. Search in a Binary Search Tree
 
 https://leetcode.com/problems/search-in-a-binary-search-tree/
+
+## 538. Convert BST to Greater Tree
+
+https://leetcode.com/problems/convert-bst-to-greater-tree/
