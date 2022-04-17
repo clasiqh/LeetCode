@@ -1,14 +1,14 @@
 class Solution {
     TreeNode res, temp;
+
     public TreeNode increasingBST(TreeNode root) {
-        if(root==null)
+        if (root == null)
             return root;
         increasingBST(root.left);
-        if(res==null) {
+        if (res == null) {
             res = new TreeNode(root.val);
             temp = res;
-        }
-        else {
+        } else {
             temp.right = new TreeNode(root.val);
             temp = temp.right;
         }
