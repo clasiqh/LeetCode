@@ -39,3 +39,7 @@ https://leetcode.com/problems/convert-bst-to-greater-tree/
 ## 897. Increasing Order Search Tree
 
 https://leetcode.com/problems/increasing-order-search-tree/
+
+## 230. Kth Smallest Element in a BST
+
+https://leetcode.com/problems/kth-smallest-element-in-a-bst/
