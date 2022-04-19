@@ -43,3 +43,7 @@ https://leetcode.com/problems/increasing-order-search-tree/
 ## 230. Kth Smallest Element in a BST
 
 https://leetcode.com/problems/kth-smallest-element-in-a-bst/
+
+## 99. Recover Binary Search Tree
+
+https://leetcode.com/problems/recover-binary-search-tree/
