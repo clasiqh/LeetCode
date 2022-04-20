@@ -47,3 +47,7 @@ https://leetcode.com/problems/kth-smallest-element-in-a-bst/
 ## 99. Recover Binary Search Tree
 
 https://leetcode.com/problems/recover-binary-search-tree/
+
+## 173. Binary Search Tree Iterator
+
+https://leetcode.com/problems/binary-search-tree-iterator/
