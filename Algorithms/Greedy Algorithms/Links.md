@@ -15,3 +15,7 @@ https://leetcode.com/problems/maximize-the-topmost-element-after-k-moves/
 ## 11. Container With Most Water
 
 https://leetcode.com/problems/container-with-most-water/
+
+## 2241. Design an ATM Machine
+
+https://leetcode.com/problems/design-an-atm-machine/
