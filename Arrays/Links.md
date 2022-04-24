@@ -77,3 +77,7 @@ https://leetcode.com/problems/3sum/
 ## 2239. Find Closest Number to Zero
 
 https://leetcode.com/problems/find-closest-number-to-zero/
+
+## 6041. Intersection of Multiple Arrays
+
+https://leetcode.com/problems/intersection-of-multiple-arrays/
