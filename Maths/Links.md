@@ -51,3 +51,7 @@ https://leetcode.com/problems/broken-calculator/
 ## 2224. Minimum Number of Operations to Convert Time
 
 https://leetcode.com/problems/minimum-number-of-operations-to-convert-time/
+
+## 6042. Count Lattice Points Inside a Circle
+
+https://leetcode.com/problems/count-lattice-points-inside-a-circle/
