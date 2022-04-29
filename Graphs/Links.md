@@ -2,72 +2,76 @@
 
 ## 133. Clone Graph
 
-Problem: https://leetcode.com/problems/clone-graph/
+https://leetcode.com/problems/clone-graph/
 
-Post: https://leetcode.com/problems/clone-graph/discuss/1793490/clean-bfs-java
+https://leetcode.com/problems/clone-graph/discuss/1793490/clean-bfs-java
 
 ## 547. Number of Provinces
 
-Problem: https://leetcode.com/problems/number-of-provinces/
+https://leetcode.com/problems/number-of-provinces/
 
 ## 841. Keys and Rooms
 
-Problem: https://leetcode.com/problems/keys-and-rooms/
+https://leetcode.com/problems/keys-and-rooms/
 
-Post: https://leetcode.com/problems/keys-and-rooms/discuss/1820643/easy-bfs-java
+https://leetcode.com/problems/keys-and-rooms/discuss/1820643/easy-bfs-java
 
 ## 797. All Paths From Source to Target
 
-Problem: https://leetcode.com/problems/all-paths-from-source-to-target/
+https://leetcode.com/problems/all-paths-from-source-to-target/
 
 ## 1319. Number of Operations to Make Network Connected
 
-Problem: https://leetcode.com/problems/number-of-operations-to-make-network-connected/
+https://leetcode.com/problems/number-of-operations-to-make-network-connected/
 
 ## 1376. Time Needed to Inform All Employees
 
-Problem: https://leetcode.com/problems/time-needed-to-inform-all-employees/
+https://leetcode.com/problems/time-needed-to-inform-all-employees/
 
 ## 802. Find Eventual Safe States
 
-Problem: https://leetcode.com/problems/find-eventual-safe-states/
+Https://leetcode.com/problems/find-eventual-safe-states/
 
 ## 1129. Shortest Path with Alternating Colors
 
-Problem: https://leetcode.com/problems/shortest-path-with-alternating-colors/
+https://leetcode.com/problems/shortest-path-with-alternating-colors/
 
 ## 1466. Reorder Routes to Make All Paths Lead to the City Zero
 
-Problem: https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero/
+https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero/
 
 ## 21. Merge Two Sorted Lists
 
-Problem: https://leetcode.com/problems/merge-two-sorted-lists/
+https://leetcode.com/problems/merge-two-sorted-lists/
 
 ## 141. Linked List Cycle
 
-Problem: https://leetcode.com/problems/linked-list-cycle/
+https://leetcode.com/problems/linked-list-cycle/
 
 ## 847. Shortest Path Visiting All Nodes
 
-Problem: https://leetcode.com/problems/shortest-path-visiting-all-nodes/
+https://leetcode.com/problems/shortest-path-visiting-all-nodes/
 
 ## 433. Minimum Genetic Mutation
 
-Problem: https://leetcode.com/problems/minimum-genetic-mutation/
+https://leetcode.com/problems/minimum-genetic-mutation/
 
 ## 997. Find the Town Judge
 
-Problem: https://leetcode.com/problems/find-the-town-judge/
+https://leetcode.com/problems/find-the-town-judge/
 
 ## 1557. Minimum Number of Vertices to Reach All Nodes
 
-Problem: https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes/
+https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes/
 
 ## 752. Open the Lock
 
-Problem: https://leetcode.com/problems/open-the-lock/
+https://leetcode.com/problems/open-the-lock/
 
 ## 127. Word Ladder
 
-Problem: https://leetcode.com/problems/word-ladder/
+https://leetcode.com/problems/word-ladder/
+
+## 785. Is Graph Bipartite?
+
+https://leetcode.com/problems/is-graph-bipartite/
