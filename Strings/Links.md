@@ -53,3 +53,7 @@ https://leetcode.com/problems/valid-palindrome-ii/
 ## 2227. Encrypt and Decrypt Strings
 
 https://leetcode.com/problems/encrypt-and-decrypt-strings/
+
+## 2255. Count Prefixes of a Given String
+
+https://leetcode.com/problems/count-prefixes-of-a-given-string/
