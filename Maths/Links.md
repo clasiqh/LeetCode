@@ -55,3 +55,7 @@ https://leetcode.com/problems/minimum-number-of-operations-to-convert-time/
 ## 6042. Count Lattice Points Inside a Circle
 
 https://leetcode.com/problems/count-lattice-points-inside-a-circle/
+
+## 2278. Percentage of Letter in String
+
+https://leetcode.com/problems/percentage-of-letter-in-string/
