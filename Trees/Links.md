@@ -51,3 +51,7 @@ https://leetcode.com/problems/recover-binary-search-tree/
 ## 173. Binary Search Tree Iterator
 
 https://leetcode.com/problems/binary-search-tree-iterator/
+
+## 114. Flatten Binary Tree to Linked List
+
+https://leetcode.com/problems/flatten-binary-tree-to-linked-list/
