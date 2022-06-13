@@ -89,3 +89,7 @@ https://leetcode.com/problems/running-sum-of-1d-array/
 ## 896. Monotonic Array
 
 https://leetcode.com/problems/monotonic-array/
+
+## 1695. Maximum Erasure Value
+
+https://leetcode.com/problems/maximum-erasure-value/
