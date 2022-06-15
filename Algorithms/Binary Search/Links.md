@@ -15,3 +15,7 @@ https://leetcode.com/problems/binary-search/
 ## 2226. Maximum Candies Allocated to K Children
 
 https://leetcode.com/problems/maximum-candies-allocated-to-k-children/
+
+## 2300. Successful Pairs of Spells and Potions
+
+https://leetcode.com/problems/successful-pairs-of-spells-and-potions/
