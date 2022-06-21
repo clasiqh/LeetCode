@@ -59,3 +59,7 @@ https://leetcode.com/problems/flatten-binary-tree-to-linked-list/
 ## 2096. Step-By-Step Directions From a Binary Tree Node to Another
 
 https://leetcode.com/problems/step-by-step-directions-from-a-binary-tree-node-to-another/
+
+## 2309. Greatest English Letter in Upper and Lower Case
+
+https://leetcode.com/problems/greatest-english-letter-in-upper-and-lower-case/
