@@ -75,3 +75,7 @@ https://leetcode.com/problems/count-artifacts-that-can-be-extracted/
 https://leetcode.com/problems/minimum-falling-path-sum/
 
 https://leetcode.com/problems/minimum-falling-path-sum/discuss/1855422/java-recursive-dp
+
+## 54. Spiral Matrix
+
+https://leetcode.com/problems/spiral-matrix/
