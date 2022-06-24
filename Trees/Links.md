@@ -67,3 +67,7 @@ https://leetcode.com/problems/greatest-english-letter-in-upper-and-lower-case/
 ## 297. Serialize and Deserialize Binary Tree
 
 https://leetcode.com/problems/serialize-and-deserialize-binary-tree/
+
+## 449. Serialize and Deserialize BST
+
+https://leetcode.com/problems/serialize-and-deserialize-bst/
