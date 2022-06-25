@@ -71,3 +71,7 @@ https://leetcode.com/problems/serialize-and-deserialize-binary-tree/
 ## 449. Serialize and Deserialize BST
 
 https://leetcode.com/problems/serialize-and-deserialize-bst/
+
+## 1028. Recover a Tree From Preorder Traversal
+
+https://leetcode.com/problems/recover-a-tree-from-preorder-traversal/
