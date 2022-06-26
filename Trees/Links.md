@@ -79,3 +79,7 @@ https://leetcode.com/problems/recover-a-tree-from-preorder-traversal/
 ## 1261. Find Elements in a Contaminated Binary Tree
 
 https://leetcode.com/problems/find-elements-in-a-contaminated-binary-tree/
+
+## 1315. Sum of Nodes with Even-Valued Grandparent
+
+https://leetcode.com/problems/sum-of-nodes-with-even-valued-grandparent/
