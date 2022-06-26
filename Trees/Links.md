@@ -75,3 +75,7 @@ https://leetcode.com/problems/serialize-and-deserialize-bst/
 ## 1028. Recover a Tree From Preorder Traversal
 
 https://leetcode.com/problems/recover-a-tree-from-preorder-traversal/
+
+## 1261. Find Elements in a Contaminated Binary Tree
+
+https://leetcode.com/problems/find-elements-in-a-contaminated-binary-tree/
