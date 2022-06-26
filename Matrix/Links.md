@@ -79,3 +79,7 @@ https://leetcode.com/problems/minimum-falling-path-sum/discuss/1855422/java-recu
 ## 54. Spiral Matrix
 
 https://leetcode.com/problems/spiral-matrix/
+
+## 2319. Check if Matrix Is X-Matrix
+
+https://leetcode.com/problems/check-if-matrix-is-x-matrix/
