@@ -57,3 +57,7 @@ https://leetcode.com/problems/encrypt-and-decrypt-strings/
 ## 2255. Count Prefixes of a Given String
 
 https://leetcode.com/problems/count-prefixes-of-a-given-string/
+
+## 2315. Count Asterisks
+
+https://leetcode.com/problems/count-asterisks/
