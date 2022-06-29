@@ -83,3 +83,7 @@ https://leetcode.com/problems/find-elements-in-a-contaminated-binary-tree/
 ## 1315. Sum of Nodes with Even-Valued Grandparent
 
 https://leetcode.com/problems/sum-of-nodes-with-even-valued-grandparent/
+
+## 543. Diameter of Binary Tree
+
+https://leetcode.com/problems/diameter-of-binary-tree/
