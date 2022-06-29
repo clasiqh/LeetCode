@@ -87,3 +87,7 @@ https://leetcode.com/problems/sum-of-nodes-with-even-valued-grandparent/
 ## 543. Diameter of Binary Tree
 
 https://leetcode.com/problems/diameter-of-binary-tree/
+
+## 110. Balanced Binary Tree
+
+https://leetcode.com/problems/balanced-binary-tree/
