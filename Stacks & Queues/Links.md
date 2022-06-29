@@ -11,3 +11,7 @@ https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/
 ## 946. Validate Stack Sequences
 
 https://leetcode.com/problems/validate-stack-sequences/
+
+## 621. Task Scheduler
+
+https://leetcode.com/problems/task-scheduler/
