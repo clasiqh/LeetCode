@@ -19,3 +19,7 @@ https://leetcode.com/problems/container-with-most-water/
 ## 2241. Design an ATM Machine
 
 https://leetcode.com/problems/design-an-atm-machine/
+
+## 1689. Partitioning Into Minimum Number Of Deci-Binary Numbers
+
+https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/
