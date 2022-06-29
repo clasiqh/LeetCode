@@ -23,3 +23,7 @@ https://leetcode.com/problems/design-an-atm-machine/
 ## 1689. Partitioning Into Minimum Number Of Deci-Binary Numbers
 
 https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/
+
+## 1647. Minimum Deletions to Make Character Frequencies Unique
+
+https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique/
