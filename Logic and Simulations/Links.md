@@ -57,3 +57,7 @@ https://leetcode.com/problems/maximum-product-after-k-increments/
 ## 289. Game of Life
 
 https://leetcode.com/problems/game-of-life/
+
+## 621. Task Scheduler
+
+https://leetcode.com/problems/task-scheduler/
