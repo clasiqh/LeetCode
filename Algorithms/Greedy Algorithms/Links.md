@@ -27,3 +27,7 @@ https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-nu
 ## 1647. Minimum Deletions to Make Character Frequencies Unique
 
 https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique/
+
+## 1710. Maximum Units on a Truck
+
+https://leetcode.com/problems/maximum-units-on-a-truck/
