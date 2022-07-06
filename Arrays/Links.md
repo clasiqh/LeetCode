@@ -97,3 +97,7 @@ https://leetcode.com/problems/maximum-erasure-value/
 ## 945. Minimum Increment to Make Array Unique
 
 https://leetcode.com/problems/minimum-increment-to-make-array-unique/
+
+## 16. 3Sum Closest
+
+https://leetcode.com/problems/3sum-closest/
