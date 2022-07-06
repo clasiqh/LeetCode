@@ -19,3 +19,7 @@ Problem: https://leetcode.com/problems/implement-trie-prefix-tree/
 ## 720. Longest Word in Dictionary
 
 Problem: https://leetcode.com/problems/longest-word-in-dictionary/
+
+## 648. Replace Words
+
+https://leetcode.com/problems/replace-words/
