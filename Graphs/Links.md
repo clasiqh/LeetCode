@@ -83,3 +83,7 @@ https://leetcode.com/problems/count-unreachable-pairs-of-nodes-in-an-undirected-
 ## 437. Path Sum III
 
 https://leetcode.com/problems/path-sum-iii/
+
+## 815. Bus Routes
+
+https://leetcode.com/problems/bus-routes/
